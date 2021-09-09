@@ -1,5 +1,7 @@
 ### Olá! Eu sou Elenildo
--👨🏽‍💻 Estou estudando Java Script e Java
+- 👦🏽 Tenho 21 anos
+- 💻 Cursando Análise e desenvolvimento de sistema
+- 👨🏽‍💻 Estou estudando Java Script e Java
 
 <div>
   <a href="https://github.com/Elenildo-Magalhaes">
